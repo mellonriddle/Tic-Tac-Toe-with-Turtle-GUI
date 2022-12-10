@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-with-Turtle-GUI
 
-Tic Tac Toe game for 2 players with Turtle.
+Tic Tac Toe game with Turtle for 2 players.
 
 You can play by clicking on the zones on the 9-split window.
 
